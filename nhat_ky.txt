@@ -1,2 +1,0 @@
-Đã hoàn thành bài học Pandas và Git ngày 5
-hom nay hoc them lenh dropna de xoa du lieu loi
